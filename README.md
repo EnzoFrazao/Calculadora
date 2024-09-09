@@ -1,7 +1,7 @@
-# Calculadora
+# 📱 Calculadora
 A calculadora realiza as operações: soma, subtração, multiplicação, divisão e módulo. O usuário escolhe a operação, insere dois números inteiros e a calculadora exibe o resultado. A entrada é validada para garantir que os números sejam inteiros, e a divisão impede que o divisor seja zero. O programa permanece ativo até que o usuário escolha sair.
 
-🧮 Funcionalidades
+# ⚙️ Funcionalidades
 - **Operações Básicas**: Permite que o usuário realize operações matemáticas como adição, subtração, multiplicação, divisão e módulo, fornecendo o resultado da operação.
 - **Entrada de Números**: Permite que o usuário insira os números que serão utilizados nas operações, validando a entrada para garantir que sejam números válidos.
 - **Exibição de Resultados**: Exibe o resultado da operação realizada, de forma clara e concisa, para que o usuário possa facilmente compreender os resultados.
